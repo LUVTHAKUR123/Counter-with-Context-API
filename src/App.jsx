@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Counter from "./context/Counter";
+import Counter from "./context/CounterContext";
 import "./App.css";
 import CombinedContexts from "./context/CombinedContexts";
 

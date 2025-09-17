@@ -1,5 +1,5 @@
 import React from 'react'
-import CounterProvider from './Counter'
+import CounterProvider from './CounterContext'
 import Counter from '../components/Counter'
 
 function CombinedContexts() {

@@ -1,6 +1,6 @@
 import React from "react";
 import { useContext } from "react";
-import { CounterContext } from "../context/Counter";
+import { CounterContext } from "../context/CounterContext";
 import { Button } from "@mui/material";
 
 function Counter() {
