@@ -26,7 +26,7 @@ This is a simple React Counter application built using *Context API* for state m
   
     "@mui/material": "^7.3.2",
 
-  React Context API → (built-in with React 18):
+  React Context API → (built-in with React 19):
 
   Vite :
        
