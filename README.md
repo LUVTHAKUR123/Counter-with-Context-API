@@ -41,4 +41,4 @@ This is a simple React Counter application built using *Context API* for state m
      npm run dev
 
 ## Open your browser and visit:
-    http://localhost:5174/
+  http://localhost:5174/
