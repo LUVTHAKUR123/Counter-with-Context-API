@@ -32,12 +32,13 @@ This is a simple React Counter application built using *Context API* for state m
        
        "vite": "^7.1.2"
 
-## Intstallation
+## Intstallation & Setup
+    https://github.com/LUVTHAKUR123/Counter-with-Context-API.git
+    
+## Install and Start the Development server
+     cd Counter-with-Context-API
+     npm install
+     npm run dev
 
-```bash
-git clone https://github.com/LUVTHAKUR123/Counter-with-Context-API.git
-cd Counter-with-Context-API
-
-npm install
-npm run dev
-
+## Open your browser and visit:
+    http://localhost:5174/
