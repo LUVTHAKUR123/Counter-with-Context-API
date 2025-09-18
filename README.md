@@ -8,12 +8,29 @@ This is a simple React Counter application built using *Context API* for state m
 -State management using React Context
 -Styled with Material UI components
 
-## Tech Stack
+## Tech Stack & Versions
+  Node.js :
 
--React 
--vite
--Context API
--Material UI
+    "Node.js →" v24.5.0",
+
+  React :
+ 
+    "react": "^19.1.1"
+
+ React-DOM :   
+
+     React DOM →"^19.1.7",
+
+     
+ Materail UI (MUI):     
+  
+    "@mui/material": "^7.3.2",
+
+  React Context API → (built-in with React 18):
+
+  Vite :
+       
+       "vite": "^7.1.2"
 
 ## Intstallation
 
